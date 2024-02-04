@@ -3,7 +3,7 @@
   "displayName": "sumo-logic-highlight",
   "description": "syntax highlight for sumo logic queries",
   "version": "0.0.1",
-  "publisher": "nic.scott",
+  "publisher": "NicScott",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -22,5 +22,10 @@
       "scopeName": "source.sumo",
       "path": "./syntaxes/sumo.tmLanguage.json"
     }]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nlscott/sumo-logic-highlight"
+  },
+  "homepage": "https://github.com/nlscott/sumo-logic-highlight"
 }
