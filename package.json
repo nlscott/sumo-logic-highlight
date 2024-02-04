@@ -1,0 +1,25 @@
+{
+  "name": "sumo-logic-highlight",
+  "displayName": "sumo-logic-highlight",
+  "description": "syntax highlight for sumo logic queries",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "sumo",
+      "aliases": ["sumo", "sumo"],
+      "extensions": [".sumo"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "sumo",
+      "scopeName": "source.sumo",
+      "path": "./syntaxes/sumo.tmLanguage.json"
+    }]
+  }
+}
