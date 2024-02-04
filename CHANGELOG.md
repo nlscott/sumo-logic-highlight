@@ -1,7 +1,13 @@
 # Change Log
 
 
+
+## 0.0.3
+
+- updated icon
+
 ## 0.0.2
+
 - add icon
 - minor syntax changes
 
