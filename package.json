@@ -3,6 +3,7 @@
   "displayName": "sumo-logic-highlight",
   "description": "syntax highlight for sumo logic queries",
   "version": "0.0.1",
+  "publisher": "nic.scott",
   "engines": {
     "vscode": "^1.85.0"
   },

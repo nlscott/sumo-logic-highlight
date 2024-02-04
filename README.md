@@ -2,8 +2,6 @@
 
 Basic syntax highlighting for sumo logic search queries
 
-![001](images/001.png)
-
 
 ## Release Notes
 
