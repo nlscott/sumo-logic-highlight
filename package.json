@@ -2,7 +2,8 @@
   "name": "sumo-logic-highlight",
   "displayName": "sumo-logic-highlight",
   "description": "syntax highlight for sumo logic queries",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "publisher": "NicScott",
   "engines": {
     "vscode": "^1.85.0"
