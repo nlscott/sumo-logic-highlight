@@ -1,6 +1,9 @@
 # Change Log
 
 
+## 0.0.5
+- add: highlights for dedup
+
 ## 0.0.4
 - add: highlights for hash, cat, bin, geoip, compare
 
