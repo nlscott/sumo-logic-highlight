@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.0.7
+- add: highlights for parsedate, vaules, delta, pct_sampling 
+
+
+## 0.0.6
+- add: highlights tolong 
+
 
 ## 0.0.5
 - add: highlights for dedup
