@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.8
+- add: highlights for compose, keywords, number 
+
+
 ## 0.0.7
 - add: highlights for parsedate, vaules, delta, pct_sampling 
 
