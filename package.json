@@ -2,7 +2,7 @@
   "name": "sumo-logic-highlight",
   "displayName": "sumo-logic-highlight",
   "description": "syntax highlight for sumo logic queries",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "icon": "images/icon.png",
   "publisher": "NicScott",
   "engines": {
