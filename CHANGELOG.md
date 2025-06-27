@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.9
+- add: language highlights for keywords trim, subquery, _index
+
 ## 0.0.8
 - add: highlights for compose, keywords, number 
 
